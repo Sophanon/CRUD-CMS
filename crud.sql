@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 23, 2020 at 03:22 AM
+-- Generation Time: Jul 27, 2020 at 06:00 AM
 -- Server version: 10.4.11-MariaDB
 -- PHP Version: 7.4.6
 
@@ -46,8 +46,8 @@ CREATE TABLE `articles` (
 
 INSERT INTO `articles` (`id`, `title`, `author`, `content`, `category`, `status`, `view`, `image`, `created_at`, `updated_at`) VALUES
 (1, 'First Post', 'Sophanon Chhoun', '<p><strong>ចក្ខុវិស័យ</strong></p><p>SmartEdu មានគោលដៅកសាងអ្នកដឹកនាំប្រកបដោយសមត្ថភាពសម្រាប់ប្រទេសកម្ពុជា។ យើងបានចូលរួមយ៉ាងសកម្មក្នុងការគាំទ្ររាជរដ្ឋាភិបាលកម្ពុជា ដើម្បីបង្កើតបុគ្គលដែលមានទេព្យកោសល្យ និង បំណងដ៏មោះមុតក្នុងការចូលរួមចំនែកអភិវឌ្ឍប្រទេសកម្ពុជានៅក្នុងយុគសម័យឌីជីថលនេះ។</p><p><strong>បេសកកម្ម</strong></p><p>នៅក្រុមហ៊ុន Smart Axiata យើងមានទស្សនៈវិស្ស័យដូចក្រុមហ៊ុនរបស់ក្រុម Axiata ក្នុងការកសាងអ្នកមានទេពកោសល្យ តាមរយៈកម្មវិធី SmartEdu។ យើងព្យាយាមរួមចំណែកក្នុងការងារនេះតាមរយៈទស្សនៈវិស័យរបស់យើង “អភិវឌ្ឍប្រទេសកម្ពុជាតាមរយៈការអប់រំ” ដែលជាមូលដ្ឋានគ្រឹះនៃការអប់រំ ការអភិវឌ្ឍន៍ និងភាពជាអ្នកដឹកនាំ ដែលស្ថិតនៅក្រោមម៉ាក ឈ្មោះថា SmartEdu ។</p><p>តាមរយៈកម្មវិធី SmartEdu យើងចង់ជម្រុញសិស្សវិទ្យាល័យប្រកបដោយភាពឆ្លាតវៃ បន្ដការសិក្សាថ្នាក់មហាវិទ្យាល័យ ហើយស្របពេលជាមួយគ្នានេះដែរផ្ដល់អោយបុគ្គលដែលមានទេពកោសល្យរបស់កម្ពុជានូវជំនាញ និងសម្ថភាពដែលយើងជឿថាជាតម្រូវការរបស់អ្នកដឹកនាំ និង CEO នាពេលអនាគត ដើម្បីប្រកួតប្រជែង និងដឹកនាំអាជីវកម្មទាំងក្នុងស្រុក និងក្រៅស្រុក។</p>', 'js', 'published', 126, 'RvaaRMzHjuL4T9Fkz9D3QHrceSJbEW5ripFRtiHg.png', '2020-07-21 19:28:03', '2020-07-22 03:01:12'),
-(2, 'Smart Edu', 'Sophanon Chhoun', '<p>Following its launch in 2016, the SmartEdu Scholarship has provided over 50 Cambodian students with the opportunity to pursue a degree of their choosing, and you could be the next one.</p><p>The Scholarship Program is back and open for all Cambodian students who just completed their grade 12 examinations on 19 August 2019.</p><p>This year, Smart will provide scholarship for 20 top students nationwide. To show support for digital and ICT innovations, 10 places are reserved for students who want to pursue their studies at the National Institute of Posts, Telecoms and ICT.</p><p>The scholarships will cover university tuition fees until the students have finished their bachelor degrees. Successful applicants will receive a monthly allowance of 200USD for up to 5 years, as well as the opportunity to attend development programme and CSR outreach events.</p><p><strong>So who is eligible for the scholarship?</strong></p><p>Grade 12 students who just completed their examinations and plan to take up a degree at any of the universities recognized by the Ministry of Education, Youth and Sport (MoEYS) or the Ministry of Posts and Telecommunications of Cambodia (MPTC). The degree cannot take more than 5 years to complete.</p>', 'bootstrap', 'published', 8, 'cxQePsNM2sUqwW6kCih55Jgfv7tXFdAxH55m8teA.png', '2020-07-22 02:11:21', '2020-07-22 02:45:13'),
-(3, 'Third', 'Sophanon Chhoun', '<p>Hello world</p>', 'bootstrap', 'published', 8, '4nssHAABifovrGNTmfM7fTvfikRXVf2a6A1DKPHj.jpeg', '2020-07-22 02:38:36', '2020-07-22 03:01:26');
+(2, 'Smart Edu', 'Sophanon Chhoun', '<p>Following its launch in 2016, the SmartEdu Scholarship has provided over 50 Cambodian students with the opportunity to pursue a degree of their choosing, and you could be the next one.</p><p>The Scholarship Program is back and open for all Cambodian students who just completed their grade 12 examinations on 19 August 2019.</p><p>This year, Smart will provide scholarship for 20 top students nationwide. To show support for digital and ICT innovations, 10 places are reserved for students who want to pursue their studies at the National Institute of Posts, Telecoms and ICT.</p><p>The scholarships will cover university tuition fees until the students have finished their bachelor degrees. Successful applicants will receive a monthly allowance of 200USD for up to 5 years, as well as the opportunity to attend development programme and CSR outreach events.</p><p><strong>So who is eligible for the scholarship?</strong></p><p>Grade 12 students who just completed their examinations and plan to take up a degree at any of the universities recognized by the Ministry of Education, Youth and Sport (MoEYS) or the Ministry of Posts and Telecommunications of Cambodia (MPTC). The degree cannot take more than 5 years to complete.</p>', 'bootstrap', 'published', 11, 'cxQePsNM2sUqwW6kCih55Jgfv7tXFdAxH55m8teA.png', '2020-07-22 02:11:21', '2020-07-26 01:56:30'),
+(3, 'Third', 'Sophanon Chhoun', '<p>Hello world</p>', 'bootstrap', 'published', 10, '4nssHAABifovrGNTmfM7fTvfikRXVf2a6A1DKPHj.jpeg', '2020-07-22 02:38:36', '2020-07-26 20:44:58');
 
 -- --------------------------------------------------------
 
@@ -70,7 +70,9 @@ CREATE TABLE `comments` (
 --
 
 INSERT INTO `comments` (`id`, `comment_post_id`, `comment_author`, `comment_content`, `status`, `created_at`, `updated_at`) VALUES
-(1, 1, 1, 'hello world', 'approved', '2020-07-21 19:34:34', '2020-07-21 19:34:34');
+(1, 1, 1, 'hello world', 'approved', '2020-07-21 19:34:34', '2020-07-21 19:34:34'),
+(2, 2, 1, 'Hello World', 'approved', '2020-07-26 01:56:30', '2020-07-26 01:56:30'),
+(3, 3, 1, 'hi', 'approved', '2020-07-26 20:44:58', '2020-07-26 20:44:58');
 
 -- --------------------------------------------------------
 
@@ -92,7 +94,8 @@ CREATE TABLE `contacts` (
 --
 
 INSERT INTO `contacts` (`id`, `user_email`, `subject`, `content`, `created_at`, `updated_at`) VALUES
-(1, 1, 'Hello', 'World', '2020-07-21 19:34:55', '2020-07-21 19:34:55');
+(1, 1, 'Hello', 'World', '2020-07-21 19:34:55', '2020-07-21 19:34:55'),
+(2, 1, 'hi', 'h', '2020-07-26 20:46:15', '2020-07-26 20:46:15');
 
 -- --------------------------------------------------------
 
@@ -130,7 +133,8 @@ CREATE TABLE `likes` (
 
 INSERT INTO `likes` (`id`, `user_id`, `article_id`, `liked`, `created_at`, `updated_at`) VALUES
 (1, 1, 1, 1, '2020-07-22 03:01:12', '2020-07-22 03:01:12'),
-(2, 1, 3, 0, '2020-07-22 03:01:17', '2020-07-22 03:01:26');
+(2, 1, 3, 0, '2020-07-22 03:01:17', '2020-07-22 03:01:26'),
+(3, 1, 2, 1, '2020-07-26 01:56:10', '2020-07-26 01:56:10');
 
 -- --------------------------------------------------------
 
@@ -299,13 +303,13 @@ ALTER TABLE `articles`
 -- AUTO_INCREMENT for table `comments`
 --
 ALTER TABLE `comments`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT for table `contacts`
 --
 ALTER TABLE `contacts`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT for table `failed_jobs`
@@ -317,7 +321,7 @@ ALTER TABLE `failed_jobs`
 -- AUTO_INCREMENT for table `likes`
 --
 ALTER TABLE `likes`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT for table `migrations`
